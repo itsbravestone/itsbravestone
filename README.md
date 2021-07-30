@@ -276,7 +276,7 @@ steve.say_hello()
 
 <details>
   <summary>❤️ About my Coding styles, and preferences </summary>
-  <br /> Coming soon....
+  <br />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
