@@ -283,8 +283,9 @@ steve.say_hello()
 </details>
 
 <br />
-
-<div name="social" align=center>
+<div name="social"></div>
+<br />
+<div align=center>
 
 ### 🔗 Connect with me:
 
