@@ -49,9 +49,9 @@ class Steve:
                 "🔭 Exploring new things"
             ]
         }
-    self.has_to_manage = ["Studies", "Music", "Programming"]
-    self.loves_to_build = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
-    self.is_active_on = [socials.DISCORD, socials.TWITTER, socials.GITHUB]
+    self.manages = ["Studies", "Discord_Server", "Programming"]
+    self.builds = [stuff.COOL, stuff.INNOVATIVE, stuff.AWESOME, stuff.USEFUL]
+    self.active_on = [socials.DISCORD, socials.TWITTER, socials.GITHUB]
 
     # -- Tech stack section --
         self.working_on = [stuff.code.DISCORD_BOT, stuff.code.WEB_DEVELOPMENT, stuff.security.ETHICAL_HACKING]
@@ -71,10 +71,10 @@ class Steve:
                 "SQL": ["PostgreSQL", "MySQL", "SQLite"],
                 "NoSQL": ["MongoDB", "Firebase"]
             },
-            "DevSecOps": ["Docker", "CI / CD", "Linux System Administration", "Version Control System", "Virtualization"],
+            "DevSecOps": ["Docker", "Version Control System", "Virtualization"],
             "Security": ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
         }
-        self.ask_me_about = ["Python", "Java", "AI", "Full Stack development", "DevSecOps", "Ethical hacking"]
+        self.askme_about = ["Python", "AI", "Full Stack development", "DevSecOps", "Ethical hacking"]
 
         # -- Social media section --
         self.social_media = {
