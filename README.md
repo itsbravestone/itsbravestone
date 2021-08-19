@@ -283,13 +283,13 @@ steve.say_hello()
 
 **🐱 My Github Data** 
 
-> 🏆 200 Contributions in the Year 2021
+> 🏆 203 Contributions in the Year 2021
  > 
-> 📦 23.5 kB Used in Github's Storage 
+> 📦 23.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -320,13 +320,13 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 22 mins      █████████████████████████   100.0%
+Python                   12 hrs 10 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  10 hrs 22 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 10 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 22 mins      █████████████████████████   100.0%
+Windows                  12 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -347,7 +347,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itsbravestone/itsbravestone/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
 </details>
 
