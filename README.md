@@ -88,7 +88,7 @@ class Steve:
         self.fun_fact = "I'm a Marvel fan who prefers coffee over tea!"
 
     def __repr__(self) -> str:
-        return f"<Bravestone working_on={self.working_on} active_at={self.most_active_at} ask_about={self.ask_me_about}>"
+        return f"<Bravestone working_on={self.working_on} active_at={self.active_on} ask_about={self.askme_about}>"
 
     def __str__(self) -> str:
         return self.name
