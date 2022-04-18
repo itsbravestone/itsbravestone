@@ -17,7 +17,7 @@ I'm not that active on social media but you will find me on discord and twitter,
 **A little more about me!**
 
 - 🔭 I’m currently working on **[Zarena bot](https://github.com/zarena) and my [Discord Server](https://dsc.gg/zarena-world)**
-- 🌱 I’m currently learning **C#, MATLAB**
+- 🌱 I’m currently learning **[React](https://reactjs.org/)**
 - 👯 I’m looking to collaborate on **[Zarena RPG](https://github.com/itsbravestone/Zarena-RPG)**
 - 🤝 I’m looking for help with **[Zarena RPG](https://github.com/itsbravestone/Zarena-RPG)**
 - 👨‍💻 My projects are available at **[Github](https://github.com/itsbravestone/)**
@@ -376,12 +376,12 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [<img align="left" alt="Steve | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
 [<img align="left" alt="Steve | Fandom" src="https://img.shields.io/badge/Fandom-00D6D6?style=for-the-badge&logo=fandom&logoColor=white" />][fandom]
 </div>
-  
+
 [website]: https://imbravestone.ga
 [twitter]: https://twitter.com/imbravestone
 [twitch]: https://www.twitch.tv/imbravestone
 [youtube]: https://www.youtube.com/channel/UCFY3Nt74SAb5iHpfsI5BxVA
-[instagram]: https://www.instagram.com
+[instagram]: https://www.instagram.com/itsbravestone
 [discord]: https://discord.com/users/435492397258899467
 [reddit]: https://www.reddit.com/user/imbravestone
 [fandom]: https://zarena.fandom.com/wiki/User:Imbravestone
