@@ -16,7 +16,7 @@ I'm not that active on social media but you will find me on discord and twitter,
 
 **A little more about me!**
 
-- 🔭 I’m currently working on **[Zarena bot](https://github.com/zarena) and my [Discord Server](https://dsc.gg/zarena-world)**
+- 🔭 I’m currently working on a discord bot called **[Zarena](https://github.com/zarenalabs)**
 - 🌱 I’m currently learning **[React](https://reactjs.org/)**
 - 👯 I’m looking to collaborate on **[Zarena RPG](https://github.com/itsbravestone/Zarena-RPG)**
 - 🤝 I’m looking for help with **[Zarena RPG](https://github.com/itsbravestone/Zarena-RPG)**
