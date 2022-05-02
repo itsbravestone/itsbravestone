@@ -108,7 +108,7 @@ steve.say_hello()
 
 ### 🎧 Spotify Playing
 
-  [![If you're seeing this then the API is down](https://novatorem-bravestone.vercel.app/api/spotify)](https://open.spotify.com/user/hcyrrk9viwxcqml24olcli1p6)
+  [![If you're seeing this then the API is down](https://novatorem-itsbravestone.vercel.app/api/spotify)](https://open.spotify.com/user/hcyrrk9viwxcqml24olcli1p6)
 
 ### ⚡ Some of my Good Stats
 
