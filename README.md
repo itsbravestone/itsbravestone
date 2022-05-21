@@ -78,7 +78,7 @@ class Steve:
 
         # -- Social media section --
         self.social_media = {
-            "email": "imbravestone@zarena.ga",
+            "email": "admin@zarena.me",
             "github": "https://github.com/itsbravestone",
             "twitter": "https://twitter.com/imbravestone",
             "discord": "https://discord.com/users/435492397258899467"
@@ -152,8 +152,8 @@ steve.say_hello()
 
 - Backend Development
 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" Title="NodeJS"/> </a>&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" Title="Express"/> </a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" Title="NodeJS"/> </a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" Title="Express"/> </a>&nbsp;&nbsp;
     <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" Title="Hadoop"/> </a>&nbsp;&nbsp;
     <a href="https://www.nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" Title="NGINX"/> </a>
 
@@ -169,7 +169,7 @@ steve.say_hello()
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" Title="Scikit-learn"/> </a>&nbsp;&nbsp;
     <a href="https://opencv.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" Title="OpenCV"/> </a>&nbsp;&nbsp;
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" Title="Pandas"/> </a>&nbsp;&nbsp;
-    <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40" Title="NumPy"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" Title="NumPy"/> </a>
 
 - Databases
   
@@ -189,7 +189,7 @@ steve.say_hello()
 - DevOps
 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" Title="Amazon Web Services"/> </a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" Title="Docker"/> </a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" Title="Docker"/> </a>&nbsp;&nbsp;
     <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" Title="Google Cloud Platform"/> </a>&nbsp;&nbsp;
     <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" Title="Kubernetes"/> </a>&nbsp;&nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" Title="Bash"/> </a>&nbsp;&nbsp;
@@ -301,7 +301,7 @@ steve.say_hello()
 [<img align="left" alt="Steve | Fandom" src="https://img.shields.io/badge/Fandom-00D6D6?style=for-the-badge&logo=fandom&logoColor=white" />][fandom]
 </div>
 
-[website]: https://imbravestone.ga
+[website]: https://bravestone.is-a.dev
 [twitter]: https://twitter.com/imbravestone
 [twitch]: https://www.twitch.tv/imbravestone
 [youtube]: https://www.youtube.com/channel/UCFY3Nt74SAb5iHpfsI5BxVA
