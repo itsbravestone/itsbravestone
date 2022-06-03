@@ -61,7 +61,7 @@ class Steve:
             "code-branches": ["AI", "Automation", "Full Stack development", "Networking"],
             "frontend": {
                 "css": ["Bootstrap", "Bulma"],
-                "js": ["React", "NextJS", "Vue", "Gatsby"]
+                "js": ["React", "NextJS", "Gatsby"]
             },
             "backend": {
                 "python": ["Flask", "Django", "ExpressJS"]
@@ -135,7 +135,6 @@ steve.say_hello()
     <a href="https://javascript.info/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" Title="JavaScript"/> </a> &nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" Title="TypeScript"/> </a> &nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" Title="Python"/> </a> &nbsp;&nbsp;
-    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" Title="PHP"/> </a>&nbsp;&nbsp;
     <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" Title="Ruby"/> </a>&nbsp;&nbsp;
     <a href="https://elixir-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40" Title="Elixir"/> </a> 
 
@@ -148,7 +147,6 @@ steve.say_hello()
     <a href="https://bulma.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40" Title="Bulma"/> </a>&nbsp;&nbsp;
     <a href="https://babeljs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" alt="babel" width="40" height="40" Title="Babel"/> </a>&nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" Title="ReactJS"/> </a>&nbsp;&nbsp;
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" Title="VueJS"/> </a>
 
 - Backend Development
 
@@ -160,7 +158,6 @@ steve.say_hello()
 - Mobile App Development
 
     <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" Title="Android Studio"/> </a>&nbsp;&nbsp;
-    <a href="https://flutter.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" Title="Flutter"/> </a>&nbsp;&nbsp;
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" Title="React Native"/> </a> 
 
 - AI / ML
