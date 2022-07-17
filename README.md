@@ -1,6 +1,6 @@
 <h1 name="title" align="center">
 Hey there 
-<a href="#title"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" Title=":wave:" /></a> I'm Steve aka Bravestone
+<a href="#title"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" Title=":wave:" /></a> I'm Steve aka Bravestone
 <a href="#title"><img src="https://cdn.discordapp.com/emojis/832140762501480469.png" width="40" Title=":pepeHappy:" /></a></h1>
 <h3 align="center">A hardcore python lover and full-stack web developer.</h3>
 
