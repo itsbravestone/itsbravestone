@@ -319,16 +319,19 @@ Sunday       70 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 14 mins        ███████████████████░░░░░░   77.03% 
+CSS                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.91% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 37 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Bravestone               1 hr 37 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 37 mins        █████████████████████████   100.0%
 
 ```
 
@@ -349,7 +352,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itsbravestone/itsbravestone/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 01:58:17 UTC
+ Last Updated on 11/10/2022 01:50:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
