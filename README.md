@@ -284,7 +284,7 @@ steve.say_hello()
 
 > 🏆 855 Contributions in the Year 2022
  > 
-> 📦 40.1 kB Used in GitHub's Storage 
+> 📦 40.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -319,16 +319,18 @@ Sunday       68 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               54 mins             ██████████████████████░░░   90.34% 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Bravestone               59 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  59 mins             █████████████████████████   100.0%
 
 ```
 
@@ -349,7 +351,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itsbravestone/itsbravestone/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 01:43:30 UTC
+ Last Updated on 28/10/2022 01:53:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
