@@ -106,10 +106,6 @@ steve.say_hello()
 
   [![Discord Status Banner](https://discord.c99.nl/widget/theme-3/435492397258899467.png)](https://dsc.gg/zarena-world)
 
-### 🎧 Spotify Playing
-
-  [![If you're seeing this then the API is down](https://novatorem-itsbravestone.vercel.app/api/spotify)](https://open.spotify.com/user/hcyrrk9viwxcqml24olcli1p6)
-
 ### ⚡ Some of my Good Stats
 
 <details>
